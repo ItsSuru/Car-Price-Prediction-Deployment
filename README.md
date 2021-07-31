@@ -2,7 +2,7 @@
 
 ## General info
 
-AI App To Predict The Price Of Used Car Based On There Condition And No Of Owners And Many Other Things.
+AI App To Predict The Price Of Used Car Based On There Condition And No Of Owners And Many Other Things. Technology used are python machine learning where I have used random forest with 88% accuracy. users data will be stored as list and using flask that list of inputs will be provided to the .pkl file which is our trained model. and the result will be revert back to users screen.
 
 ## Screenshots
 
