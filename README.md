@@ -7,7 +7,10 @@ AI App To Predict The Price Of Used Car Based On There Condition And No Of Owner
 ## Screenshots
 
  <p align="center">
-  <img width="700" height="400" src="https://github.com/ItsSuru/Car-Price-Prediction-Deployment/blob/master/templates/demo.png">
+  <img width="700" height="400" src="https://github.com/ItsSuru/Car-Price-Prediction-Deployment/blob/master/templates/fro1.png">
+ </p>
+ <p align="center">
+  <img width="700" height="400" src="https://github.com/ItsSuru/Car-Price-Prediction-Deployment/blob/master/templates/fro2.png">
  </p>
 
 
