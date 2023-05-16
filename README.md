@@ -42,4 +42,4 @@ This project is licensed under the Apache-2.0 License.
 
 ## Deployment
 
-<a href="https://car-price-prediction-app19.herokuapp.com/">https://car-price-prediction-app19.herokuapp.com/<a/>
+<a href="https://car-price-prediction-cei2.onrender.com/">https://car-price-prediction-app19.herokuapp.com/<a/>
